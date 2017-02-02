@@ -1,9 +1,6 @@
-<!-- start: Font -->
-<link href="<?php echo $this->theme->getBaseUrl() . '/fonts/material-icons.css'; ?>" rel="stylesheet">
-<!-- end: Font -->
-
 <!-- start: CSS -->
 <link href="<?php echo $this->theme->getBaseUrl() . '/css/theme.css'; ?>" rel="stylesheet">
+<link href="<?php echo $this->theme->getBaseUrl() . '/css/material-icons.css'; ?>" rel="stylesheet">
 <link href="<?php echo $this->theme->getBaseUrl() . '/css/animate.css'; ?>" rel="stylesheet">
 <link href="<?php echo $this->theme->getBaseUrl() . '/css/tidy.css'; ?>" rel="stylesheet">
 <link href="<?php echo $this->theme->getBaseUrl() . '/css/flatelements.css'; ?>" rel="stylesheet">
